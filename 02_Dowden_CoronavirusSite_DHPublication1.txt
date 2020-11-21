@@ -1,0 +1,58 @@
+﻿DH Publication 1 – Carissa's ENGL 877 page
+
+
+This first publication looks at the impact of Coronavirus pandemic on UNL’s campus, as well as tools that academics and laypeople alike can use to publish DH material. Students were assigned a series of essays to complete over the first four weeks; field work documenting observations on changes to day-to-day campus life, a comparative review and analysis of digital publication tools, and photography and metadata creation of the impact of Coronavirus on campus.
+
+
+Each separated part was created in response to a weekly report prompt.
+
+
+Dev. Report #1
+
+
+As a semi-professional geographer, I leap at any chance to analyze the landscape. My observation was highly informed by my previous research in semiotic landscapes of welcomingness, and some interesting things I noted was a (reasonable) lack of trust in individuals’ ability to self-regulate, as well as a considerable air of forced optimism in signage, but there appears to be a return to natural spaces as places of respite, especially from a worldwide pandemic. I conducted my analysis on a coffee run and subsequent stroll around campus.
+
+
+Dunkin’ Donuts’ social distancing order is enforced via a set of stanchions, and approximately 7 standing stickers in either waiting area. The be-gloved cashier, separated from me via plexiglass, slid my receipt under the barrier like it was a secret, which always makes me smile a bit. In comparison at the Nebraska Union, Starbucks has provided a detailed sign with acceptable customer logistics (see provided picture), effectively mapping out the queue structure. There was even a diagram mapping out proper social distancing. I find this new sense of ordering and queuing on the landscape absolutely fascinating, as there is a common understanding that, at least in American society, people cannot be expected to self-regulate during a crisis.
+
+
+The new semiotic landscape of pandemic awareness also speaks to me as a humanistic geographer, as we find frequent signs on the landscape instructing us to wear a mask, stay “one Herbie apart,” or that the drinking fountain is only usable for refilling bottles. Even the grab-and-go coolers that originally had sodas or salads in them now sit empty, so it’s not controversial to say that indoor environments have become unwelcoming, and one gets the sense that they should rush in and rush out. The language isn’t specifically doom-and-gloom, but definitely has a feeling of forced saccharine optimism, as well as the feeling that places inside on campus are much more unsafe than “non-places” online or at home.
+
+
+This is not to say that all of campus is unwelcoming; I have never seen more people interacting outside and using outdoor spaces than I have now. I even saw a student taking a zoom call on his laptop outside the Union. Of course, this phenomena is not exactly unexpected, as it’s preferable to work outside in the heat, as opposed to inside with an itchy mask on. Even though there are still people on campus, this pandemic has created the atmosphere for people to “[make] knowledge informed by technology,” as well as make creative solutions to learning within the digital realm, whilst attempting to retain the human aspects of school (Hunter et al). This is our new normal, and we have to navigate our new reality, digital and physical.
+
+
+Dev. Report #2
+
+
+Omeka, Blogger, WordPress and Flickr are sites where a diverse group of people share content, Digital Humanities (“DH”) or otherwise. While Omeka is the most professional option, used by academics with great metadata recording, it is a paid service with little design capabilities. Blogger and WordPress are the most accessible and easy to use sites, but Blogger especially seems a bit unprofessional to use in an academic context and neither do extensive metadata recording. Flickr is a great photo publishing site with excellent metadata recording, but is primarily limited to photo sharing, and searching for content is imprecise. All four options bring something to the table of DH publication, but all utilize some form of metadata, simple or complex, to allow searching and sharing of intellectual creations (Lybarger).
+
+
+As a public historian, I’ve used Omeka in the past, so it’s quite a familiar website to me. One of the benefits of working with Omeka in DH is that Dublin Core is set up as a fundamental aspect of the website creation and object listing process. Object listings are easy to create, and exhibit design is fairly straightforward. For example, the UNL Campus Archaeology site shows how extensive metadata recording can be. Omeka is a paid service, however, the only free access by way of a trial membership, and the next cheapest option is $35/year. The uploading and exhibit creation process can also be laborious, especially for large collections of objects, so site and exhibit design can take a long time. In addition, there are also only two themes for Omeka sites, so every other project ends up looking exactly the same. Omeka is the most professional DH website of the four, but it’s a paid service for little design ability, and the labor-intensive creation process leaves a lot to be desired.
+
+
+Blogger and WordPress are sites that I associate with life and fiction writing, particularly fanfiction, so to start, I think one arguable disadvantage in using these for DH is the platforms’ reputation. Furthermore, these sites are nowhere near the metadata capability of Omeka, and only do categorizing and tagging, as well as basic standardization. Blogger is very simple to use, and works just like a Word Doc, so in terms of accessibility, Blogger is amazing for day-to-day content. I have two old blogs from years ago, and they are still online in near-perfect form. WordPress also had far more capabilities than I expected. The Block designing function fascinated me, and yields great story-telling abilities, so this version of WordPress reminds me a lot of Wix. Blogger and WordPress are the most easy to use and accessible publishing options for DH content, but are a part of a wide and diverse user-base that don’t bring up academic and/or humanities research to mind.
+
+
+Flickr was a site that I had no experience with before.Its mostly used for professional media and image sharing, but it could easily be used for DH as well. Flickr’s metadata capabilities are notable; I uploaded a random photo from my camera roll, and Flickr listed my device, camera settings, location, and tags immediately, so Flickr could be super useful for fieldwork. After Coronavirus times, I could easily see myself using this site for fieldwork all over, as it seems to be a great place to organize photos and record metadata. Because of the community photo sharing aspect of Flickr, the searched tags for a particular term may not bring up relevant content. I searched “tarot,” and the top photos were of some black poodle dog. It’s also just image sharing, unlike the previous sites which allow for a blog-like design, so Flickr for DH would be best paired with another publishing site and not used on its own.  
+
+
+All four sites bring benefits and disadvantages to the DH table. Omeka is the most professional option for DH work, but not the most accessible. WordPress and Blogger are the most accessible options, but have a varied user base with a slight reputation. Flickr cannot be used on its own, but can be paired with another site to organize and analyze DH material. The decision of what site to use definitely comes down to the requirements of metadata for individual DH projects.
+
+
+Dev. Report #3
+
+
+In the above slideshow block, I have uploaded the images that I took for DH report 3 on how the Coronavirus has impacted campus. One can also view these images and their metadata on the Flickr link button below, or on the home page for this project. I have also provided down my observations from the walk below.
+
+
+Dublin Core Metadata Spreadsheet for imagesDownload
+
+
+I explored my usual walk path on Wednesday after my morning lab, and featured my photos around empty/unwelcoming spaces and the ways we have decided/are instructed to protect ourselves. Last year, I loved going into Love North and working in the lower stacks, or just walking through those tiny hobbit doors for fun. But now, the stacks are literally taped off, and you can no longer explore the books in a section and find something new to cite. I started my walk in Adele Coryell (mostly to get a Dunkin’ for the rainy walk), and noticed that one of the Huskertech workers was in their full PPE gear as pictured. I didn’t want to bother them (as I’m sure they’ve gotten many students pointing and taking covert pictures of them), so I continued on my walk, but on my way back, I steeled my reserve and went to ask both the workers if I could take their photo for this project. The person thanked me for asking, which makes me feel a bit sad now, because I’m sure people have been making fun of them for trying to feel safe coming to work.
+
+
+Cite page (MLA): Dowden, Carissa L.. “DH Publication 1.” Coronavirus? In My Nebraska?, 2020, https://cdowden3.wordpress.com/dh-publication-1/
+
+
+Terms of use: Creative Commons Attribution 4.0 International

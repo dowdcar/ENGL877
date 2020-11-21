@@ -1,0 +1,28 @@
+﻿Carissa's ENGL 877 page
+Coronavirus? In my Nebraska?
+Welcome to my English 877 Site! I hope you enjoy some of the assignments I created for this class!
+
+
+About the project
+
+
+This page features my work for the for English 877: Advanced Topics in Digital Humanities (Digital Project Development) course, taken in Fall 2020 at University of Nebraska-Lincoln. This class is led by Dr. Adrian Wisnicki, who is a professor in the English department at UNL, as well as a Faculty Fellow of the Center for Digital Research in the Humanities, and the Digital Humanities Program Coordinator in the College of Arts and Sciences at UNL.
+
+
+This class, while teaching students how to use DH tools and theory, focuses on the impact of the Coronavirus on the UNL campus and downtown Lincoln, summarized in 3 end-of-unit DH Publications. To quote from Dr. Wisnicki’s course description, “the first cycle will focus on text, data, and metadata; the second on mapping space and place; and the third on conveying critical analysis through interactive design.”
+
+
+Specifically, the first DH publication looks at the impact of Coronavirus pandemic on UNL’s campus, as well as tools that academics and laypeople alike can use to public DH material. Students were assigned a series of essays to complete over the first four weeks; field work documenting observations on changes to day-to-day campus life, a comparative review and analysis of digital publication tools, and photography and metadata creation of the impact of Coronavirus on campus. The second DH publication looks past the borders of campus at downtown Lincoln, as well as online mapping software for DH material. It incorporates similar field work studies at DH Publication 1, while also integrating new ways of visualizing data.
+
+
+This site will be updated as future parts of the semester are completed, and subsequent work will be published accordingly. Use the below buttons to access the completed parts of the project and the associated Flickr page. The recent redesign was inspired by Abby Jackowski’s site, Cornhuskers Fight COVID, for this class, as well as the critiques of my partner Christopher and dear friend Mya.
+
+
+Please start by reading DH Publication 1 on UNL’s campus reaction to Covid-19, followed by DH Publication 2.1 on downtown Lincoln, as well as DH Publication 2.2, which expands on part of Dev. Report #6 with StoryMap and a hand-drawn sign.
+Citation 
+
+
+Cite page (MLA): Dowden, Carissa L.. “Carissa’s ENGL 877 Page.” Coronavirus? In My Nebraska?, 2020, https://cdowden3.wordpress.com/
+
+
+Terms of use: Creative Commons Attribution 4.0 International

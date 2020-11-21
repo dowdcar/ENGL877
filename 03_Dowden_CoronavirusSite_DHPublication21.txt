@@ -1,0 +1,68 @@
+﻿DH Publication 2.1
+This unit had students looking at downtown Lincoln’s response to the Pandemic, as well as more tools to create digital humanities material of maps as well as many students’ first experience in coding. Specifically, we used StoryMap and GeoJSON paired with Github to explore geovisualization as a DH tool. This was quite enjoyable for me, as I love making maps outside of census data visualization. Ultimately, we learned these skills to better represent the field data that we collected earlier in the unit.
+
+
+DH Report #4:
+I don’t go out much, especially now that I quit my side job. In downtown Lincoln, I didn’t see many people wearing masks when I was observing. I saw people disregarding medical advice that has been proven time and time again, and it feels like people just don’t care about this new normal continuing through Winter 2021. People would rather draw the line at “muh rights” rather than work towards the common good, because American Individualism pales at the idea of acting communally.
+
+
+People go out in town without a mask, under the impression that, if they’re outside and somewhat distancing, that the virus can’t get them. They pull their dirty single-use mask out of their sweaty pocket and pull it over their mouth to go into the bar. The amount of people I see with their noses hanging out of masks absolutely astounds me, though I see plenty of students doing the same on campus. Survival of the fittest, I guess?
+
+
+You see many people hanging their only mask from their car’s rear-view window as a reminder to put it on, or possibly to “sanitize” it in the sunlight, but those masks are just as dirty. And my favorite, watching someone open a door to a business, and immediately pulling down their mask to scratch their nose with their unsanitized fingers. In my post like this for the previous unit, I remarked on the many falsely positive signs about wearing masks and socially distancing, but downtown, there’s a notable lack of that signage. If anything, most businesses have a county-issued mask mandate sign, and that’ll be it.
+
+
+I’m not from Nebraska, and while my home community isn’t the most liberal either, it makes me sad to see so many people collectively disregard scientific advice. Now that restaurants are open, people are sitting down to eat, and spending the entire meal with their mask off, like they’re perfectly safe. At this point of the pandemic, I don’t feel much hope that things will get better, especially with the American culture of individualism that spurns communalism and acting in the common good for personal comfort and ideology. On the positive side of things, I have a great excuse to stay at home and do whatever I want!
+
+
+Writing this second set of observations, I feel the need to make it more about the writing, less formal observation. I’m technically a scientist, even though I am on the cusp of STEM, so I don’t get many chances to write with feeling. Many humanistic geographers that write on the edge of my discipline are not considered scientists either, and put out beautiful works of writing that are largely ignored by mainstream geographers. So, I’d like to think that practice such as this will ultimately develop my creative writing skills and ability to put emotion into my words.
+
+
+DH Report #5:
+StoryMap and GeoJSON coupled with Github are both online mapping softwares that allow makers to create geographical stories. I found Storymap easy and straightforward to use, but lacked true personalization in map backgrounds (as only one style could be used per story). GeoJson required a bit more skill in coding, and I had a few issues with points not saving, but eventually, it brought together multiple sites in order to create an attractive web map. Both of the sites, however, engage with Graham’s reading excerpt on data visualization; both allow savvy users to view the behind-the-scenes skeleton of the webmap, while also retaining an attractive front-side that average viewers can understand.
+
+
+When I opened up StoryMap, I was inspired to make a story about my hometown. I wrote a paper on my hometown’s historical geography, so I used the information. What I liked was how different slides could represent different geographical areas, and how in the final production, the individual points were all on a singular map. For historical geographies, this is great to show progression in a story, but this could possibly get busy and confusing for stories with a lot of stops. I liked the different background patterns we could use for the maps, but I wish this could be personalized per slide. Some information needs street names while others can just be a nice watercolor, so this was disappointing. I was able to create a comprehensive historical geography that showed different areas of important history, but generally, I wish there was a bit more individual design.
+
+
+StoryMap
+We were also asked to draw a visualization of one of our narratives. Naturally, I chose to draw the landmarks I shared in my Story Map.
+
+
+
+
+Drawn images from my Story Map and other landmarks in northern Waukesha County, WI.
+
+
+GeoJSON was not my favorite. I had put all my points down, and was going to do the last one, and found that all but the last point disappeared. This was quite frustrating, but eventually, I was able to complete the assignment. Because this is just a basic point map, there isn’t much personalization with the background as StoryMap did, but I’m sure the people using GeoJson don’t like the watercolor backgrounds as much. I had fun coding for the first time in a long while, as I used to mess with my Tumblr page’s html code back in 2012, and I only had one hiccup along the way (accidentally deleted part of Jessica’s original code). The end product was sophisticated looking and showed all of my final images and pictures with no issue, so I can see how this would be a great tool for someone’s website or field research.
+
+
+GeoJSON/Github Demo
+In the Graham reading, we were asked “What is humanistic about data visualisation?” In DH, we are expected to be clear about the invisible layers of technology holding up our work, but legibility for laypeople is just as important. As I’ve been learning in my GeoVisualization class, maps and cartograms are useless if people don’t understand them. Data visualization isn’t some sort of new fangled trend, and people have been doing so for centuries, so charting the narrow path between complex and simple is a trial of academics. Per this concept, GeoJson is that anyone is able to see the structure behind the map and change it as needed, but the image remains legible for the average viewer. Storymap’s interface is even more easy to understand for the average user, and the product is highly polished. I can see myself using either of these mapping softwares in the future, though I may have to gain some more coding knowledge.
+
+
+DH Report #6:
+
+
+Metadata for DH Report #6Download
+Above, one can view all of the images that I took for DH Report #6. They are also available on my Flickr account.
+
+
+I went for a walk downtown one day around 3 pm, which is normally quite busy in Lincoln. I saw some people walking around, but it was mostly workers taking a smoke break or students walking back from campus. I wasn’t sure what to focus on given the lack of people, so I started taking pictures of business’s signs, starting in the bar area on O and going up to P and 14th. Many businesses just used the original sign designed by the county, and in the bars, there were a couple of mask flyers that were creased and torn, almost as if raucous party goers were leaning up against them in a crowded room. There were a few personalized signs; Jimmy John’s designed a sign showing how many sandwiches were proper social distance, and A Novel Idea had a hand drawn sign of a Rosie the Riveter figure wearing a mask and calling people to vote. It was still nothing like campus with its almost stifling amount of signs. The downtown had a distinctive loneliness to it. This was my first time actually venturing out downtown in a few months, and I don’t think I’ll do it again if its not assigned.
+
+
+As said earlier in this post, we were given a few opportunities to explore coding in controlled environments. Through the Hour of Code website and a cute little Star Wars game, I learned how to code in a Scratch-like environment, and made a game that represented my perspective of the Coronavirus pandemic.
+
+
+Star Wars Game
+I ended up doing the full exercise to acquaint myself with the coding process. I never used Scratch as a kid to learn coding, so I had no idea what to do when thrown on the last page. I actually had quite a bit of fun doing the individual challenges, so when it came to making our own “game,” I wanted to make something chaotic with no “win”. I designed it so that the Mouse Droids kept multiplying whenever you touched something, and if they touched you, you lose points, just as if you touched a railing and then touched your eye, and got sick, or if someone infected you with the virus. The only way to “win” is to not touch anything or anyone, but is that really winning? This pandemic has been day after week after month of disappointment and frustration. People keep getting sick, and even venturing out into public is a gamble. For most of us, our experience is lived within the four walls of a home, often completely alone, not leaving and only venturing out with hand sanitizer and a mask, so I wanted to somehow represent that existence. I also wanted to experiment with the multiplier function, so this was a great excuse.
+
+
+Lastly, to finish this publication, we were to use two of the three tools of StoryMap, GeoJson, and/or a hand-drawn image to critically enhance the information gathered in DH Report #6. I chose StoryMap and to draw something, as those were what I was most comfortable with using. In order for this part to stand alone, please click the button below to take a look.
+ 
+
+
+Cite page (MLA): Dowden, Carissa L.. “DH Publication 2.” Coronavirus? In My Nebraska?, 2020, https://cdowden3.wordpress.com/dh-publication-2/
+
+
+Terms of use: Creative Commons Attribution 4.0 International
