@@ -19,6 +19,9 @@ This site will be updated as future parts of the semester are completed, and sub
 
 
 Please start by reading DH Publication 1 on UNL’s campus reaction to Covid-19, followed by DH Publication 2.1 on downtown Lincoln, as well as DH Publication 2.2, which expands on part of Dev. Report #6 with StoryMap and a hand-drawn sign.
+
+The raw text files for this website are available in my Github repository.
+
 Citation 
 
 
